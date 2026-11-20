@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Arthur Eder, tenho 21 anos e sou natural do Rio Grande do Sul. Cursei o ensino medio no IFsul, com o curso técnico em plásticos. Atualmente, estou cursando ADS na Unisinos. Sou fascinado pela tecnologia, estou sempre buscando por mais conhecimento.
+Me chamo Arthur Eder, tenho 22 anos e sou natural do Rio Grande do Sul. Cursei o ensino medio no IFsul, com o curso técnico em plásticos. Atualmente, estou cursando ADS na Uninter. Estou em busca de uma oportunidade de me desenvolver na area.
 
 <div>
   <a href="https://github.com/ArthurEcs">
